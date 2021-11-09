@@ -19,3 +19,4 @@ up-sell item other than drinks (up to 10%)
 estimated price or ability for someone in the store to see the orders with their phone (up to 15%)
 
 There is a brief [presentation here](EventsAndObjects.pdf).
+Ref: Mob Web Course.
